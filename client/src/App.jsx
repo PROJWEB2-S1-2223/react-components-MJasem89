@@ -18,4 +18,6 @@ function Composants() {
          </ul>
 }
 
+ReactDOM.render(<Composants/>, app);
+
 export default App;
