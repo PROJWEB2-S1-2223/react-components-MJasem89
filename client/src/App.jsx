@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
 
-  return (
-  );
+  return (Composants);
 }
 
 function Composants() {
@@ -17,8 +16,6 @@ function Composants() {
             <li>Fruits</li>
             <li>Legumes</li>
          </ul>
-
 }
-ReactDOM.render(<Composants/>, app);
 
 export default App;
