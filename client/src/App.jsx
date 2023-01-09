@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
 
-  return (Composants);
-}
+  return();
 
 function Composants() {
 
@@ -18,6 +17,5 @@ function Composants() {
          </ul>
 }
 
-ReactDOM.render(<Composants/>, app);
 
 export default App;
